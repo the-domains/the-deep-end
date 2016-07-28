@@ -1,7 +1,7 @@
 name: The Deep End
 favicon: null
-layout_spectrum: 0.8934721075929701
-typography_spectrum: 0.14572770078666508
+layout_spectrum: 0.75761
+typography_spectrum: 0.46068
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.603298295289278
-  lightness: 0.3000751498620957
-  saturation: 0.32146822824142873
-  rhythmicContrast: 0.9506261614151299
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.9375
+  rhythmicContrast: 1
 purpose: []
