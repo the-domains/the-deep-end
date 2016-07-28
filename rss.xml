@@ -2,17 +2,10 @@
     <channel>
         <title><![CDATA[The Deep End]]></title>
         <description><![CDATA[The Deep End]]></description>
-        <link>https://thegrid.ai/the-deep-end/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
         <lastBuildDate>Thu, 28 Jul 2016 17:12:56 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/the-deep-end/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Honey Sound System & Pete Moss]]></title>
-            <description><![CDATA[<article><h1>Honey Sound System & Pete Moss</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f501192e5d1c1d16597f4d896b126dbd/noop.jpg?input=http%3A%2F%2Fthedeependparty.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fhoneysound-64-1200x800.jpg"></article>]]></description>
-            <link>http://thedeependparty.com/honey-sound-system-pete-moss/</link>
-            <guid isPermaLink="false">537c9f8d-5457-44e7-b099-3096906af03b</guid>
-            <pubDate>Thu, 28 Jul 2016 17:12:23 GMT</pubDate>
-        </item>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Soul Button & BLANCah (Steyoyoke showcase)]]></title>
             <description><![CDATA[<article><h1>Soul Button & BLANCah (Steyoyoke showcase)</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8071d731cc2f8eefc8b42b9223c58792/noop.jpg?input=http%3A%2F%2Fthedeependparty.com%2Fwp-content%2Fuploads%2F2016%2F07%2Frave-035-1200x801.jpg"></article>]]></description>
